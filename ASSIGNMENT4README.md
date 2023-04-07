@@ -15,7 +15,7 @@ The flower sprite spread vertically and horizontally over an array.
 https://editor.p5js.org/cyprian.dove/sketches/iCntylBeI
 Randomizing flower size, background size, all while over an array. Found out what blending modes were
 ```
-	04-04
+04-04
 ```
 https://editor.p5js.org/cyprian.dove/sketches/XdcyqAj3Y
 Created multiple different sprites with loops and spread them across a progressive array over the canvas with randomized size and background color.
